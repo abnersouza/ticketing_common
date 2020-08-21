@@ -5,4 +5,4 @@ Used to shared express middlewares, error handlers and nats streaming events wit
 The full microservice application: [Link](https://github.com/abnersouza/ticketing)
 
 <br>
-The lib was created based on Udemy course by Stephen Grider :)
+This lib was created based on a Microservices course at Udemy by Stephen Grider
