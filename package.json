@@ -12,7 +12,18 @@
     "build": "npm run clean && tsc",
     "pub": "npm publish"
   },
-  "keywords": [],
+  "homepage": "https://github.com/abnersouza/ticketing_common#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abnersouza/ticketing_common"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "express",
+    "nats streaming",
+    "microservices"
+  ],
   "author": "abnersouza",
   "license": "MIT",
   "devDependencies": {
