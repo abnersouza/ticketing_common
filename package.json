@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/abnersouza/ticketing_common"
   },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/@abrtickets/common"
+  },
   "keywords": [
     "nodejs",
     "typescript",
