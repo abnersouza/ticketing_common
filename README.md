@@ -1,4 +1,4 @@
-# Common Microservice Ticketing Library
+# Microservice Ticketing Library ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Used to shared express middlewares, error handlers and nats streaming events with different services in a ticketing microservice application.
 
